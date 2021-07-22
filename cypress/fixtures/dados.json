@@ -1,0 +1,15 @@
+{
+    "nome": "Diego",
+    "sobrenome": "Silva",
+    "empresa": "Aprendendo a ser QA",
+    "endereco": {
+        "rua": "Rua no fim do universo",
+        "complemento": "Casa",
+        "cidade": "Maravilha",
+        "pais": "Pais das Maravilhas",
+        "cep": "04200000"
+    },
+    "telefone": "1142427777",
+    "email": "restaurante@nofimdouniverso.com",
+    "adicional": "Vire a direita na segunda galáxia."
+}
